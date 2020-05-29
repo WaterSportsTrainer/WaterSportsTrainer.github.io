@@ -1,0 +1,60 @@
+@charset "UTF-8";
+h2 {
+	color: #0013FA;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	border: medium solid #141A82;
+	border-top-left-radius: 0px;
+	background-color: #09C6F6;
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+}
+h1 {
+	text-align: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color: #0106C9;
+	text-shadow: 3px 1px #000000;
+}
+.WebName {
+	color: #2241E0;
+	font-style: italic;
+}
+p {
+	margin-left: 10px;
+}
+#firstp {
+	text-align: center;
+	font-variant: small-caps;
+	font-size: 20px;
+}
+body {
+	background-image: url(images/DSC02695.JPG);
+	background-repeat: no-repeat;
+	background-position: 50% -111%;
+	background-size: 100% 72%;
+}
+h3 {
+	color: #0013FA;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+.topnav {
+	background-color: white;
+	overflow: hidden;
+	/* [disabled]margin-top: -9px; */
+}
+.topnav a {
+  float: right;
+  color: darkblue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: lightblue;
+	color: darkblue;}
